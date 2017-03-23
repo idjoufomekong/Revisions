@@ -1,0 +1,5 @@
+C:\Progdvt\VisualStudio\Revisions\Tri_d_un_tableau\bin\Debug\Tri_d_un_tableau.exe.config
+C:\Progdvt\VisualStudio\Revisions\Tri_d_un_tableau\bin\Debug\Tri_d_un_tableau.exe
+C:\Progdvt\VisualStudio\Revisions\Tri_d_un_tableau\bin\Debug\Tri_d_un_tableau.pdb
+C:\Progdvt\VisualStudio\Revisions\Tri_d_un_tableau\obj\Debug\Tri_d_un_tableau.exe
+C:\Progdvt\VisualStudio\Revisions\Tri_d_un_tableau\obj\Debug\Tri_d_un_tableau.pdb
